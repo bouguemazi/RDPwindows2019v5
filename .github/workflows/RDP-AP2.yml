@@ -1,4 +1,4 @@
-name: RDP-Windows
+name: 2RDP-Windows
 
 on: workflow_dispatch
 
